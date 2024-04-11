@@ -6,6 +6,7 @@ This repo follows the **Advance Your Python Skills for Data Science** Learning P
 Courses in this Learning Path are:
 1. Python for Data Science Essential Training Part 1
    - [X] Chapter 2
+   - [ ] Chapter 4
    - [ ] Chapter 5
    - [ ] Chapter 6
    - [ ] Chapter 7
